@@ -10,7 +10,7 @@ const textConfig = {
   text9: "Vì Chí Khang nhìn cutie cực kì luôn ",
   text10: "Tớ biết mà ^^ Yêu cậu 300.000",
   text11:
-    "Hết dịch tớ qua đón cậu đi chơi nhaa :v Còn giờ thì chờ gì nữa mà ko inbox cho tớ đi nàooo",
+    "Thật ra t làm cái này tặng m thôi, t cx nghĩ rồi m ko cần chọn nữa đâu , cx ko cần phân vân hay gì nữa đâu .Nhiêu đó là đủ rồi .T cảm ơn vì m đã đọc và lắng nghe t từ đó đến h ",
   text12: "Okii lunn <3",
 };
 
